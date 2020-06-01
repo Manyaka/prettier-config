@@ -1,0 +1,12 @@
+{
+  "name": "@mn/prettier-config",
+  "version": "1.0.0",
+  "description": "Конфиг prettier",
+  "main": "index.json",
+  "author": "Maria Nag <manyaknag@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Manyaka/prettier-config"
+  },
+  "license": "MIT"
+}

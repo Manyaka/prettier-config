@@ -1,6 +1,6 @@
 {
   "name": "@manyaka/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Конфиг prettier",
   "main": "index.json",
   "author": "Maria Nag <manyaknag@gmail.com>",

@@ -1,4 +1,4 @@
-# `@mn/prettier-config`
+# `@manyaka/prettier-config`
 
 > Мой конфиг [Prettier](https://prettier.io).
 
@@ -7,11 +7,11 @@
 **Устанавливаем**:
 
 ```bash
-$ npm install -D @mn/prettier-config
+$ npm install -D @manyaka/prettier-config
 ```
 
 ```bash
-$ yarn add -D @mn/prettier-config
+$ yarn add -D @manyaka/prettier-config
 ```
 
 **Редактируем `package.json`**:
@@ -19,6 +19,6 @@ $ yarn add -D @mn/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@mn/prettier-config"
+  "prettier": "@manyaka/prettier-config"
 }
 ```

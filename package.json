@@ -1,5 +1,5 @@
 {
-  "name": "@mn/prettier-config",
+  "name": "@manyaka/prettier-config",
   "version": "1.0.0",
   "description": "Конфиг prettier",
   "main": "index.json",
